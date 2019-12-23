@@ -34,3 +34,18 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+# .csv files
+*.csv
+
+# .ipynb files
+*.ipynb
+
+# .exe files
+*.exe 
+
+# Other files
+graphs/
+rsconnect/
+www/
+.ipynb_checkpoints/
